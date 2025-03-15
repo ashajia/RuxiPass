@@ -1,4 +1,4 @@
-已迁移至 https://github.com/ashajia/100-AI-coded/tree/main
+已迁移至 [https://github.com/ashajia/100-AI-coded/tree/main](https://github.com/big-dollar/100-AI-coded)
 # 如席密码管理器（RuxiPass）V0.5
 > 作者说：借鉴了古早的收费软件KeyPass，现在官网已经不在了
 
